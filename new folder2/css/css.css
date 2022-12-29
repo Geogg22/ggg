@@ -1,0 +1,207 @@
+*{
+    box-sizing: border-box;
+    -webkit-margin-before: 0;
+    margin-block-start: 0;
+    -webkit-margin-after: 0;
+    margin-block-end: 0;
+  }
+  
+  @font-face {
+    font-family: "Montserrat";
+    src: url(/fonts/Montserrat-Bold.ttf);
+  }
+  header {
+    background-image: url("../img/cyberpunk-neon-girl_1565054393\ 4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 1024px;
+  }
+  .id {
+    margin-left: 126px;
+  }
+   .id1 {
+    margin-left: 55px;
+    margin-top: 35px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    white-space: nowrap; 
+  }
+  
+  .font {
+    padding-top: 24px;
+  }
+  .id2{
+    margin-top:35px ;
+    margin-left:42px ;
+  }
+  .id3{
+    margin-top: 35px;
+    margin-left: 28px;
+  }
+  .bt{
+    margin-top: 34px;
+    margin-left: 26px;
+    background: white !important;
+    padding: 10px 24px;
+    font-family: 'Montserrat' !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 700 !important;
+    font-size: 18px !important;
+    line-height: 22px !important;
+    color: #000000 !important; 
+    text-decoration: none;
+    white-space: nowrap; 
+  }
+  .box1{
+    display: flex;
+    justify-content: end;
+    padding-right: 123px;
+    padding-top: 175px;
+  }
+  .id6{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 39px;
+    color: #FFFFFF;
+    width: 465px;
+  }
+  .id7{
+    display: flex;
+    justify-content: end;
+    padding-top: 53px;
+    padding-right: 400px;
+  }
+  .id88{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #5604AD;
+    padding: 13px 33px;
+    
+  }
+h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 130px; 
+    background: #090A26;
+    background-size: cover;
+    margin-bottom: 0;
+    height: 249px;
+  }
+  main{
+    background-image:url('../img/96398-neon-cyberpunk-artist-artwork-digital-art-hd-4k-artstation\ 1.png');
+    background-size: cover;
+    min-height: 955px;
+  }
+  .box.a{
+    padding-left: 119px;
+  }
+  main .p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 39px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+    width: 465px;
+    
+    padding-top: 195px;
+  }
+  .id8{
+    padding-top: 53px;
+
+  }
+  .id10{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #5604AD;
+    padding: 13px 33px;
+  }
+  footer{
+    background: #090A26;
+    background-size: cover;
+  }
+  .t1{
+    border-bottom: 1px solid #502356;
+    padding-top: 130px;
+  }
+  .box.t2{
+    margin-left: 119px;
+    max-width: 400px;
+  }
+  .box.t2 img{
+    padding-top: 120px;
+  }
+  .card.t3{
+  --bs-card-bg: ;
+  }
+  
+  
+  .t4 p{
+    color: #fff;
+  }
+  .t5{
+    color: #fff;
+  }
+  .tt{
+    padding-left: 58px;
+  }
+  .tt1{
+    padding-left: 58px;
+  }
+  .car {
+    display: flex;
+    position: absolute;
+    margin-left: 669px;
+    
+  }
+  .car ul li {
+    list-style-type: none;
+  }
+  .car ul li a {
+    text-decoration: none;
+    color: white;
+  
+  }
+  .car .ul {
+    margin-left: 160px;
+     padding-top: 20px;
+  }
+  .rame {
+    margin-left: 120px;
+    margin-top: 120px;
+    max-width: 391px;
+    min-height: 173px;
+    color: white;
+  }
+  .rame1{
+    margin-top: 32px;
+  }
+  .icon i{ 
+    color: #FFFFFF;
+    text-decoration: none;
+  
+  }
